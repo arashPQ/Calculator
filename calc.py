@@ -1,3 +1,10 @@
+############################
+####      Developer:    ####
+####        Arash       ####
+####        Paghe       ####
+############################
+
+
 import customtkinter as ctk
 from Buttons import Button, NumberButton, OperatorButtons
 import darkdetect
