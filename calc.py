@@ -161,7 +161,7 @@ class Calculator(ctk.CTk):
 class Outout_Label(ctk.CTkLabel):
     def __init__(self, parent, row, anchor, font, string_var):
         super().__init__(master=parent, text='', font=font, textvariable=string_var)
-        self.grid(column = 0, columnspan=5, row=row, sticky=anchor, padx=10)
+        self.grid(column = 0, columnspan=4, row=row, sticky=anchor, padx=10)
         
 
 
