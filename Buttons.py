@@ -1,3 +1,9 @@
+############################
+####      Developer:    ####
+####        Arash       ####
+####        Paghe       ####
+############################
+
 from customtkinter import CTkButton
 from Settings import *
 
